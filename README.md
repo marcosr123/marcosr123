@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosr123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true "/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosr123&layout=compact&langs_count=9&theme=dracula&cache_header=1800"/>
 </div> 
+  
+<a href=""><img alt="Melissa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marcosr123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ### Olá! Sinta-se a vontade :) 👋
 
